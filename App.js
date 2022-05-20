@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Primeiro Projeto - Teste</Text>
+      <Text> Projetinho lindo do trio perfeito Gabirel Maria Raianny </Text>
       <StatusBar style="auto" />
     </View>
   );

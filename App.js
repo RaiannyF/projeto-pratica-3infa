@@ -5,7 +5,7 @@ import cat from './src/assets/gato.jpg';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Projeto 2TRI</Text>
+      <Text> Projetinho lindo do trio perfeito Gabirel Maria Raianny </Text>
       <StatusBar style="auto" />
       <Image style={styles.image} 
         source={cat}
